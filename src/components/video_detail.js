@@ -5,7 +5,7 @@ const VideoDetail = ({video}) => {
         return <div>Loading...</div>
     }
     const videoId = video.id.videoId;
-    const url = `http://www.youtube.com/embed/${videoId}?html5=1`;
+    const url = `https://www.youtube.com/embed/${videoId}?html5=1`;
     return (
         <div className="video-detail col-md-8 col-sm-12">
             <div className="embed-responsive embed-responsive-16by9">
