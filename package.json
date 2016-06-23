@@ -1,9 +1,9 @@
 {
-  "name": "Youtube Search",
+  "name": "youtube-search-react",
   "version": "1.0.0",
   "description": "Simple app with React",
   "main": "index.js",
-  "repository": "git@github.com:loctv/youtube-api-search.git",
+  "repository": "git@github.com:loctv/youtube-search-react.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
